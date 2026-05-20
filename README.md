@@ -1,0 +1,1 @@
+komunikace pilota a operátora během přistávání/odletu
