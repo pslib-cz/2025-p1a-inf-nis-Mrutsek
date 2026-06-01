@@ -2,9 +2,12 @@
 
 ## Funkce:
 
-komunikace
-ukládání komunikace
-informace o letu
+komunikace,
+
+ukládání komunikace,
+
+informace o letu,
+
 použití systému
 
 ## link:
