@@ -11,4 +11,4 @@ informace o letu,
 použití systému
 
 ## link:
-https://github.com/pslib-cz/2025-p1a-inf-nis-Mrutsek
+https://pslib-cz.github.io/2025-p1a-inf-nis-Mrutsek/
